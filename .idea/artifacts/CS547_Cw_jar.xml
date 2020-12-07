@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS547 Cw:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="CS547 Cw.jar">
+      <element id="module-output" name="CS547 Cw" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/opt4j-3.1.4/lib/guice-4.0-beta5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/opt4j-3.1.4/lib/opt4j-core-3.1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
